@@ -70,6 +70,14 @@ Recursion
 Menu-driven approach
 <img width="374" height="293" alt="Screenshot 2026-03-27 144047" src="https://github.com/user-attachments/assets/924e5ed0-95ed-4044-9789-d283645721d6" />
 <img width="414" height="312" alt="Screenshot 2026-03-27 144041" src="https://github.com/user-attachments/assets/d38bfdc8-49b1-4ca0-b317-138435182b31" />
+<img width="414" height="318" alt="Screenshot 2026-03-27 144052" src="https://github.com/user-attachments/assets/bc546d52-f9c0-41d0-9f75-86545ae6afe3" />
+<img width="418" height="390" alt="Screenshot 2026-03-27 144100" src="https://github.com/user-attachments/assets/f79bdc50-3ea0-44d3-9d43-c66006bfb665" />
+<img width="452" height="291" alt="Screenshot 2026-03-27 144108" src="https://github.com/user-attachments/assets/fb4e7b70-0a8c-4617-ab6f-dbfb511bb067" />
+<img width="420" height="373" alt="Screenshot 2026-03-27 144118" src="https://github.com/user-attachments/assets/31d83308-ccee-43d1-8188-a344338004d8" />
+<img width="404" height="326" alt="Screenshot 2026-03-27 144124" src="https://github.com/user-attachments/assets/b3a13768-8820-4627-9758-f7541ab859b3" />
+<img width="381" height="347" alt="Screenshot 2026-03-27 144132" src="https://github.com/user-attachments/assets/c41a9295-d2cb-4ccb-8a22-7a085d0d7caa" />
+<img width="412" height="279" alt="Screenshot 2026-03-27 144138" src="https://github.com/user-attachments/assets/519e6d43-bf1c-4333-8fef-c7f1bcd598d6" />
+<img width="401" height="252" alt="Screenshot 2026-03-27 144149" src="https://github.com/user-attachments/assets/18925605-f2c1-4c52-a301-fe57ceb1d7b9" />
 
 
 🎯 Conclusion
