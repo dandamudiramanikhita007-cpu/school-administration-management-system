@@ -68,8 +68,8 @@ Dynamic memory allocation (malloc, free)
 Functions (modular programming)
 Recursion
 Menu-driven approach
-<img width="374" height="293" alt="Screenshot 2026-03-27 144047" src="https://github.com/user-attachments/assets/924e5ed0-95ed-4044-9789-d283645721d6" />
 <img width="414" height="312" alt="Screenshot 2026-03-27 144041" src="https://github.com/user-attachments/assets/d38bfdc8-49b1-4ca0-b317-138435182b31" />
+<img width="374" height="293" alt="Screenshot 2026-03-27 144047" src="https://github.com/user-attachments/assets/924e5ed0-95ed-4044-9789-d283645721d6" />
 <img width="414" height="318" alt="Screenshot 2026-03-27 144052" src="https://github.com/user-attachments/assets/bc546d52-f9c0-41d0-9f75-86545ae6afe3" />
 <img width="418" height="390" alt="Screenshot 2026-03-27 144100" src="https://github.com/user-attachments/assets/f79bdc50-3ea0-44d3-9d43-c66006bfb665" />
 <img width="452" height="291" alt="Screenshot 2026-03-27 144108" src="https://github.com/user-attachments/assets/fb4e7b70-0a8c-4617-ab6f-dbfb511bb067" />
